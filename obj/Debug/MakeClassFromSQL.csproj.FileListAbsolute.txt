@@ -1,0 +1,26 @@
+c:\users\tj\documents\visual studio 2012\Projects\MakeClassFromSQL\bin\Debug\MakeClassFromSQL.exe.config
+c:\users\tj\documents\visual studio 2012\Projects\MakeClassFromSQL\bin\Debug\MakeClassFromSQL.exe
+c:\users\tj\documents\visual studio 2012\Projects\MakeClassFromSQL\bin\Debug\MakeClassFromSQL.pdb
+c:\users\tj\documents\visual studio 2012\Projects\MakeClassFromSQL\obj\Debug\MakeClassFromSQL.csprojResolveAssemblyReference.cache
+c:\users\tj\documents\visual studio 2012\Projects\MakeClassFromSQL\obj\Debug\MakeClassFromSQL.Form1.resources
+c:\users\tj\documents\visual studio 2012\Projects\MakeClassFromSQL\obj\Debug\MakeClassFromSQL.Properties.Resources.resources
+c:\users\tj\documents\visual studio 2012\Projects\MakeClassFromSQL\obj\Debug\MakeClassFromSQL.csproj.GenerateResource.Cache
+c:\users\tj\documents\visual studio 2012\Projects\MakeClassFromSQL\obj\Debug\MakeClassFromSQL.exe
+c:\users\tj\documents\visual studio 2012\Projects\MakeClassFromSQL\obj\Debug\MakeClassFromSQL.pdb
+C:\vs2013Projects\MakeClassFromSQL\bin\Debug\MakeClassFromSQL.exe.config
+C:\vs2013Projects\MakeClassFromSQL\obj\Debug\MakeClassFromSQL.exe
+C:\vs2013Projects\MakeClassFromSQL\obj\Debug\MakeClassFromSQL.pdb
+C:\vs2013Projects\MakeClassFromSQL\bin\Debug\MakeClassFromSQL.exe
+C:\vs2013Projects\MakeClassFromSQL\bin\Debug\MakeClassFromSQL.pdb
+C:\vs2013Projects\MakeClassFromSQL\obj\Debug\MakeClassFromSQL.csprojResolveAssemblyReference.cache
+C:\vs2013Projects\MakeClassFromSQL\obj\Debug\MakeClassFromSQL.Form1.resources
+C:\vs2013Projects\MakeClassFromSQL\obj\Debug\MakeClassFromSQL.Properties.Resources.resources
+C:\vs2013Projects\MakeClassFromSQL\obj\Debug\MakeClassFromSQL.csproj.GenerateResource.Cache
+G:\personalbackup\vsprj\MakeClassFromSQL\bin\Debug\MakeClassFromSQL.exe.config
+G:\personalbackup\vsprj\MakeClassFromSQL\obj\Debug\MakeClassFromSQL.exe
+G:\personalbackup\vsprj\MakeClassFromSQL\obj\Debug\MakeClassFromSQL.pdb
+G:\personalbackup\vsprj\MakeClassFromSQL\bin\Debug\MakeClassFromSQL.exe
+G:\personalbackup\vsprj\MakeClassFromSQL\bin\Debug\MakeClassFromSQL.pdb
+G:\personalbackup\vsprj\MakeClassFromSQL\obj\Debug\MakeClassFromSQL.Form1.resources
+G:\personalbackup\vsprj\MakeClassFromSQL\obj\Debug\MakeClassFromSQL.Properties.Resources.resources
+G:\personalbackup\vsprj\MakeClassFromSQL\obj\Debug\MakeClassFromSQL.csproj.GenerateResource.Cache
